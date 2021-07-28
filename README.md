@@ -1,2 +1,0 @@
-# digital-bank
-Digital Bank
