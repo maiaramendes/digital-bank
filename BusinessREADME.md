@@ -22,7 +22,7 @@ Transfers:
 Language:
 - Front-end: ReactJS (pwa)
 - Back-end: Java Spring
-- Database: Datomic
+- Database: MySQL
 
 
 
