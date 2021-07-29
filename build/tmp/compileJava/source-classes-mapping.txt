@@ -1,2 +1,14 @@
+digitalbank/model/enums/PaymentType.java
+ digitalbank.model.enums.PaymentType
+digitalbank/model/user/User.java
+ digitalbank.model.user.User
 digitalbank/DigitalBankApplication.java
  digitalbank.DigitalBankApplication
+digitalbank/model/wallet/Wallet.java
+ digitalbank.model.wallet.Wallet
+digitalbank/model/transfer/Transfer.java
+ digitalbank.model.transfer.Transfer
+digitalbank/model/account/Account.java
+ digitalbank.model.account.Account
+digitalbank/model/BaseEntity.java
+ digitalbank.model.BaseEntity
