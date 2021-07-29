@@ -7,9 +7,6 @@ jobs:
   build:
     docker:
       - image: cimg/openjdk:16.0.1
-      - steps:
-        - checkout
-        - run: java --version
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
